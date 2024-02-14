@@ -1,0 +1,25 @@
+{
+  "name": "@ulu/eslint-config",
+  "version": "0.0.1",
+  "description": "Shared config for vue projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jscherbe/eslint-config.git"
+  },
+  "keywords": [
+    "vue",
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Joe Scherben",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jscherbe/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Jscherbe/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": ">= 8",
+    "eslint-plugin-vue": ">= 9"
+  }
+}
